@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abby-Ay
-- 👀 I’m interested in Data related projects
+- 👀 I’m interested in Data related projects and job roles
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with Data Analyst and any other professional that works with datasets. 
 - 📫 How to reach me? See my twitter and email address in my profile. 
