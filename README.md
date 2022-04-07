@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Abigeal
+- 👋 Hi, it's nice to have you here
+- 👩‍💻 I’m looking to collaborate with Data Analyst and any other professionals that works with datasets.
 - 👀 I’m interested in Data related projects and job roles
-- 🌱 I’m currently learning Python and French (Tu parles Francais?).
-- 👩‍💻 I’m looking to collaborate with Data Analyst and any other professionals that works with datasets. 
-- 📫 How to reach me? See my twitter handle and email address in my profile.
-- it's nice having you here :) 
+- 🌱 I’m currently learning Python and French (Tu parles Francais?)
+- 📫 Please feel free to reach out to me, twitter handle @Richabbyy or email abigealay@gmail.com.
+ 
 
 <!---
 Abby-Ay/Abby-Ay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
